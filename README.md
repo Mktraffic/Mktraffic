@@ -65,7 +65,6 @@ Backend services for handling data and business logic.
 
 - 💼 **LinkedIn**: [David Lotero](https://www.linkedin.com/in/david-lotero-rodr%C3%ADguez-517505329)  
 - 📧 **Email**: david.loteror03@gmail.com  
-- 🐙 **GitHub**: [Mktraffic](https://github.com/Mktraffic)
 
 ---
 
